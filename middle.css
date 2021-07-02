@@ -1,0 +1,12 @@
+h5 {
+    left: 0;
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
+    line-height: 0px;
+    margin-top: 0px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
